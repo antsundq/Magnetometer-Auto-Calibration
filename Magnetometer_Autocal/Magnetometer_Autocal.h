@@ -1,3 +1,7 @@
+/*
+ * MIT License
+ * Copyright (c) 2021 Anton Sundqvist
+ */
 #ifndef GD_AUTOCAL_H
 #define GD_AUTOCAL_H
 #include <arduino.h>

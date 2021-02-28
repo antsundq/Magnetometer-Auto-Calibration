@@ -1,3 +1,7 @@
+/*
+ * MIT License
+ * Copyright (c) 2021 Anton Sundqvist
+ */
 #include "Magnetometer_Autocal.h"
 /*************************************************************************************
    Begin: Magnetometer_Autocal

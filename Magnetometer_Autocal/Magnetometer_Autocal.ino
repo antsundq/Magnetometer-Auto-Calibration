@@ -1,3 +1,7 @@
+/*
+ * MIT License
+ * Copyright (c) 2021 Anton Sundqvist
+ */
 #include "Magnetometer_Autocal.h"
 #define DECPOINTS 5
 MAGAC model= MAGAC();
