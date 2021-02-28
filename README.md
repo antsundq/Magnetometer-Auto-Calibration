@@ -6,7 +6,8 @@ The algorithm takes the raw data from the sensor and returns an estimation of th
 The only parameter which should be adjusted is the learning rate of the algorithm. 
 The optimal value depends on the actual data from the hardware, but the default value should work well in many cases. 
 
-To use the algorithm, one will need to integrate a magnetometer into the main sketch, read the values and pass them into the model. 
+To use the algorithm, one will need to integrate a magnetometer into the main sketch, read the values and pass them into the model.
+An Arduino sketch is provided as starting point for this in "Magnetometer_Autocal".
 
 ## Background
 There is a few algorithms and examples available for compensating magnetometer measurements to get rid of the biases inherent to most, if not all, magnetometers. 
